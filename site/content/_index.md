@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Авто делови ЕРИГОН"
+subtitle: Поддржете ја нашата страна за повеќе производи.
 image: (https://imgur.com/a/ChPDsZs)
 blurb:
     heading: Зошто Еригон?
